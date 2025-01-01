@@ -2,11 +2,11 @@
 
 Hello, I'm Sajjad, a data analyst skilled in data querying, cleaning, analyzing, and creating stunning visualizations, BI dashboards, and reports to support data-driven decisions.
 
-- SQL: querying and manipulating data efficiently.
-- Python: cleaning and processing data for meaningful analysis.
-- Power BI: designing dynamic dashboards and impactful reports.
-- Excel & Google Sheets: analyzing and presenting data for clear insights.
-- MS Word & Confluence: writing documentation to support team collaboration and knowledge sharing.
+- **SQL**: querying and manipulating data efficiently.
+- **Python**: cleaning and processing data for meaningful analysis.
+- **Power BI**: designing dynamic dashboards and impactful reports.
+- **Excel & Google Sheets**: analyzing and presenting data for clear insights.
+- **MS Word & Confluence**: writing documentation to support team collaboration and knowledge sharing.
 
 
 
