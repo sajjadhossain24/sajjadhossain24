@@ -32,7 +32,7 @@ Here I showcase my data work samples in different areas.
 -->
 
 🤝**Contact Me**
-- Email: (sajjadhossain3002@gmail.com) 
+- Email: sajjadhossain3002@gmail.com
 - [LinkedIn](www.linkedin.com/in/sajjad-hos)
 
 Thanks for visiting my profile! 😊
