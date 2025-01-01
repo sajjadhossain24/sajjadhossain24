@@ -35,3 +35,14 @@ Here I showcase my data work samples in different areas.
 - [LinkedIn](www.linkedin.com/in/sajjad-hos)
 
 Thanks for visiting my profile! 😊
+
+## 🛠️ Tech Stack
+- Python, R
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
+- SQL
+- Power BI, Tableau
+
+---
+
+
