@@ -20,7 +20,7 @@ Here I showcase my data work samples in different areas.
 | **Data Visualization**   | [Click me for the details](#)           |
 | **Dashboard & Report**   | [Click me for the details](#)           |
 | **Documentation**      
-
+-->
 🛠️**Tech Stack**
 - Language: SQL, Python
 - Database: Microsoft SQL Server, MySQL
@@ -29,8 +29,7 @@ Here I showcase my data work samples in different areas.
 - CRM: SuperOffice, SAP
 - Project Management: Asana, Trello, Jira
 - Documentation: MS Word, Confluence
--->
-
+  
 🤝**Contact Me**
 - Email: sajjadhossain3002@gmail.com
 - [LinkedIn](www.linkedin.com/in/sajjad-hos)
