@@ -8,8 +8,9 @@ Hello, I'm Sajjad, a data analyst skilled in data querying, cleaning, analyzing,
 - **Excel & Google Sheets**: analyzing and presenting data for clear insights.
 - **MS Word & Confluence**: writing documentation to support team collaboration and knowledge sharing.
 
-
+<!--
 📊**Data Projects**
+
 Here I showcase my data work samples in different areas.
 | Type                    | Link                                    |
 |-------------------------|-----------------------------------------|
