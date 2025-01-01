@@ -9,18 +9,28 @@ Hello, I'm Sajjad, a data analyst skilled in data querying, cleaning, analyzing,
 - **MS Word & Confluence**: writing documentation to support team collaboration and knowledge sharing.
 
 
+📊**Data Projects**
+Here I showcase my data work samples in different areas.
+| Type                    | Link                                    |
+|-------------------------|-----------------------------------------|
+| **Data Scraping**        | [Click me for the details](#)           |
+| **Data Cleaning**        | [Click me for the details](#)           |
+| **Data Analysis**        | [Click me for the details](#)           |
+| **Data Visualization**   | [Click me for the details](#)           |
+| **Dashboard & Report**   | [Click me for the details](#)           |
+| **Documentation**      
 
-<!--
-**sajjadhossain24/sajjadhossain24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️**Tech Stack**
+- Language: SQL, Python
+- Database: Microsoft SQL Server, MySQL
+- Analysis: Excel, SQL, Python (NumPy, Pandas)
+- Visualization: Power BI, Python (Matplotlib, Seaborn)
+- CRM: SuperOffice, SAP
+- Project Management: Asana, Trello, Jira
+- Documentation: MS Word, Confluence
 
-Here are some ideas to get you started:
+🤝**Let's Connect**
+- Linkedin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Thanks for visiting my profile! 😊
