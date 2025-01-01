@@ -1,6 +1,6 @@
 **About Me**
 
-Hello, I'm Sajjad — a data analyst with a knack for turning raw data into actionable insights! I specialize in data querying, cleaning, analysis, and creating impactful visualizations, BI dashboards, and reports to drive informed decision-making.
+Hello, I'm Sajjad, a data analyst specializing in querying, cleaning, analysis, and creating powerful visualizations, BI dashboards, and reports to support data-driven decisions.
 
 - SQL: querying and manipulating data efficiently.
 - Python: cleaning and processing data for meaningful analysis.
