@@ -1,4 +1,14 @@
-### Hi there 👋
+🙋🏻‍♀️ ### **About Me**
+
+Hello, I'm Sajjad — a data analyst with a knack for turning raw data into actionable insights! I specialize in data querying, cleaning, analysis, and creating impactful visualizations, BI dashboards, and reports to drive informed decision-making.
+
+🔹 SQL: querying and manipulating data efficiently.
+🔹 Python: cleaning and processing data for meaningful analysis.
+🔹 Power BI: designing dynamic dashboards and impactful reports.
+🔹 Excel & Google Sheets: analyzing and presenting data for clear insights.
+🔹 MS Word & Confluence: writing documentation to support team collaboration and knowledge sharing.
+
+
 
 <!--
 **sajjadhossain24/sajjadhossain24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
