@@ -8,6 +8,7 @@ Hello, I'm Sajjad, a data analyst skilled in data querying, cleaning, analyzing,
 - Excel & Google Sheets: analyzing and presenting data for clear insights.
 - MS Word & Confluence: writing documentation to support team collaboration and knowledge sharing.
 
+---
 <!--
 ##📊**Projects**
 
@@ -20,8 +21,10 @@ Here I showcase my data work samples in different areas.
 | **Data Visualization**   | [Click me for the details](#)           |
 | **Dashboard & Report**   | [Click me for the details](#)           |
 | **Documentation**      
+
+---
 -->
-##🛠️**Tech Stack**
+## 🛠️ Tech Stack
 - Language: SQL, Python
 - Database: Microsoft SQL Server, MySQL
 - Analysis: Excel, SQL, Python (NumPy, Pandas)
@@ -29,20 +32,15 @@ Here I showcase my data work samples in different areas.
 - CRM: SuperOffice, SAP
 - Project Management: Asana, Trello, Jira
 - Documentation: MS Word, Confluence
+
+---
+
   
 ##🤝**Contact Me**
 - Email: sajjadhossain3002@gmail.com
 - [LinkedIn](www.linkedin.com/in/sajjad-hos)
 
-Thanks for visiting my profile! 😊
-
-## 🛠️ Tech Stack
-- Python, R
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- SQL
-- Power BI, Tableau
-
 ---
+Thanks for visiting my profile! 😊
 
 
