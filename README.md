@@ -37,7 +37,7 @@ Here I showcase my data work samples in different areas.
 - Email: sajjadhossain3002@gmail.com
 - [LinkedIn](www.linkedin.com/in/sajjad-hos)
 
-💎 **Thanks for visiting my profile!** 😊
+ 💎 **Thanks for visiting my profile!** 😊
 
 ---
 
