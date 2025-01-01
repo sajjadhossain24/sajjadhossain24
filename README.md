@@ -1,4 +1,4 @@
-**About Me**
+👨‍💻**About Me**
 
 Hello, I'm Sajjad, a data analyst specializing in querying, cleaning, analyzing, and creating stunning visualizations, BI dashboards, and reports to support data-driven decisions.
 
